@@ -23,8 +23,8 @@ export default function Middle() {
           <Typed
             className="pl-2 md:pl-4 text-gray-500 md:text-3xl sm:text-2xl text-xl font-bold "
             strings={["BTB", "DTC", "BTC", "SAAS"]}
-            typeSpeed={120}
-            backSpeed={150}
+            typeSpeed={100}
+            backSpeed={80}
             loop
           />
         </div>
